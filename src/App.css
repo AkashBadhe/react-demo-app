@@ -31,3 +31,15 @@
     transform: rotate(360deg);
   }
 }
+.toast{
+  opacity: 1 !important;
+  margin-bottom: 10px;
+  margin-top:10px;
+}
+.Contact_List li  {
+ list-style: none;
+
+}
+.toast-body p{
+  text-align: left;
+}
